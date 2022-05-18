@@ -2,7 +2,7 @@
 
 ## ABSTRACT
 
-Analysis of hospital costs and medicare reimbursements in the US baed on Dianosis Related Group (DRG) from 2016-2017. 
+Analysis of hospital costs and medicare reimbursements in the US based on Diagnosis Related Group (DRG) from 2016-2017. 
 
 ## Purpose 
 
